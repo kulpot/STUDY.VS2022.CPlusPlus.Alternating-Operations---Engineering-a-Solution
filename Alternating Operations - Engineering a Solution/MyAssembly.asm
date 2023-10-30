@@ -11,10 +11,10 @@ doit proc
 
 	; this is a comment i can type whatever i like after a semicolon and assembler will ignore it
 	
+	; --------------------- Alternating Operations - Engineering a Solution --------------------------------------
 
 
-
-
+	ret
 
 	; ----------------------- Alternating Operations - Our Next Challenge ------------------------------------------
 
