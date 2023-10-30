@@ -11,6 +11,11 @@ doit proc
 
 	; this is a comment i can type whatever i like after a semicolon and assembler will ignore it
 	
+
+
+
+
+
 	; ----------------------- Alternating Operations - Our Next Challenge ------------------------------------------
 
 	; 3^1 + 3^2 * 3^3 + 3^4 * 3^5 + ..... 3^n
