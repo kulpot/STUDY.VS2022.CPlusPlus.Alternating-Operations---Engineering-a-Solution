@@ -13,6 +13,7 @@ doit proc
 	
 	; --------------------- Alternating Operations - Engineering a Solution --------------------------------------
 
+	; 2^1 + 2^2 * 2^3 + 2^4 * 2^5 + ..... 2^n
 
 	ret
 
